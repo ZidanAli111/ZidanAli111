@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zidanali111" alt="zidanali111" /></a> </p>
 
-- 🌱 I’m currently learning **React and NextJS**
+- 🌱 I’m currently learning **React and Next.js**
 
 - 💬 Ask me about **Android , Java Full Stack Development**
 
